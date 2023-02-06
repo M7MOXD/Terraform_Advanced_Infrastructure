@@ -1,5 +1,9 @@
 # Terraform Advanced Infrastructure
 
+## Infrastructure
+
+![This is an image](./Pics/infrastructure.png)
+
 ## Workspace
 
 ![This is an image](./Pics/workspace_show%26list.png)
